@@ -1,7 +1,0 @@
-#!/usr/bin/env python3
-
-import __init__
-
-from _homework_manager import list_homeworks
-
-raise SystemExit(list_homeworks())
