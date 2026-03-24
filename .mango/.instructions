@@ -1,0 +1,3 @@
+scripts/list: list ls
+scripts/fetch: fetch
+scripts/submit: submit

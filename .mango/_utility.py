@@ -1,7 +1,7 @@
 '''
-utility.py
+_utility.py
 ----------------
-This file contains utility functions for the canvas homework management system.
+This file contains _utility functions for the canvas homework management system.
 '''
 
 import os
